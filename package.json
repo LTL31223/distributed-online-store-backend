@@ -1,0 +1,22 @@
+{
+  "name": "distributed-online-store-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTL31223/distributed-online-store-backend.git"
+  },
+  "author": "\"Cho, Htin, Julian, Ying\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LTL31223/distributed-online-store-backend/issues"
+  },
+  "homepage": "https://github.com/LTL31223/distributed-online-store-backend#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
